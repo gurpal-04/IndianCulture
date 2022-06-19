@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#title{
+    font-size: 35px;
+    text-align: center;
+    color: aliceblue;
+}  
+
+body{
+    background-image: url(images/chennai-tamil-nadu-lockdown-1366x768.webp);
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+#title{
+    margin: 0;
+    background-color: #abaa31;
+    position: sticky;
+    top: 0px;
+    padding: 5px 0px;
+    z-index: 1;
+}
+#outerdiv{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#navBar{
+    background-color: wheat;
+    display: none;
+
+    position: sticky;
+    top: 50px;
+}
+.sideBar{
+    height: 100%;
+    width: 20%;
+
+    background-color: #111;
+    position: fixed;
+    top: 50px;
+    display: inline-block;
+
+    text-align: center;
+    margin-right: 5px;
+    padding-top: 15px;
+}
+.sideBar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+  
+.sideBar a:hover {
+    color: #f1f1f1;
+}
+
+#hiddenBar{
+    display: none;
+    width: 170px;
+}
+
+#content{
+    width: 70%;
+    background-color: #d3d3d3b5;
+
+    /* text-align: center; */
+    margin-left: 25%;
+    /* opacity: 0.8; */
+    display: inline-block;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.divImage{
+    margin-left: 20%;
+}
+.display{
+    display: block;
+}
+
+p{
+    font-size: 20px;
+    padding: 20px;
+    margin: 0;
+    opacity: 1;
+    
+}
+h2,h1{
+    text-align: center;
+}
+h3{
+    padding-left: 10px;
+}
+img{
+    padding-left: 5%;
+    width: -webkit-fill-available;
+    padding-right: 5%;
+    max-height: 70vh;
+}
+
+@media screen and (max-width: 500px) {
+    #sideBar{
+        display: none;
+    }
+    #navBar{
+        display: block;
+    }
+
+    #content{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+    }
+}

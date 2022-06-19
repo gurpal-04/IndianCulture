@@ -13,7 +13,7 @@ On top of page under title quiz button is added when user will click on "here" i
 At the end your score will be displayed and a play again button will appear to restart the quiz.
 
 Further on main page(index.html), when you click on any state the respective webpage of that state will open.
-Due to time constrains we are not able cover all the state only few have been covered. The covered states/UTs are Jammu and Kashmir, Punjab, Assam.
+Due to time constrains we are not able cover all the state only few have been covered. The covered states/UTs are Jammu and Kashmir, Punjab, Assam, Rajasthan, Tamil Nadu, Madhya Pradesh.
 
 All the pages are dynamic, when the size of screen is small then the side bar will disappear and three lines button will appear on top. When you click on 3 lines the hidden side navigation bar will appear from where you can choose the section of page you want to go. If user click outside navigation bar then it will again disappear.
 
@@ -34,3 +34,11 @@ https://www.w3schools.com/charsets/ref_utf_symbols.asp
 www.punjab-tourism.com
 www.holidify.com
 www.farmersvilla.in
+https://www.holidify.com/pages/madhya-pradesh-dress-142.html#:~:text=Lehenga%20and%20Choli%20are%20the,most%20popular%20colors%20in%20clothes.
+https://www.holidify.com/state/madhya-pradesh/top-destinations-places-to-visit.html
+https://indiathedestiny.com/india-society/costumes/madya-pradesh-traditional-costumes/
+https://timesofindia.indiatimes.com/life-style/food-news/mouth-watering-dishes-from-madhya-pradesh-that-you-must-not-miss/photostory/76959621.cms?picid=76959841
+wikinow.in
+www.lifestylefun.net
+www.facebook.com
+www.tourism.rajasthan.gov.in

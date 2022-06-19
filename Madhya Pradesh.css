@@ -1,0 +1,7 @@
+body{
+    background-image: url(images/background-mp.jpg);
+    background-size: cover;
+}
+#title{
+    background-color: #c574d2;
+}

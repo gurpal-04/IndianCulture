@@ -1,0 +1,7 @@
+body{
+    background-image: url(images/background-tea.jpg);
+    background-size: cover;
+}
+#title{
+    background-color: #84a82c;
+}

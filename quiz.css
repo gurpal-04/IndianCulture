@@ -1,0 +1,59 @@
+body{
+    background-image: url(images/india-culture0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    overflow-y: hidden;
+}
+#outerdiv{
+    width: 100%;
+    height: 100vh;
+    overflow-y: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+#innerdiv{
+    width: 40%;
+    border: 5pt;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3rem 8rem;
+    border-radius: 1rem;
+    background-color: #fff;
+}
+
+#innerdiv li{
+    padding: 1rem;
+    list-style: none;
+}
+
+#time{
+    text-align: center;
+}
+
+input{
+    cursor: pointer;
+}
+
+.button{
+    background-color: aqua;
+    outline: none;
+    font-size: 20px;
+    border-radius: 15px;
+    text-transform: uppercase;
+}
+
+#score{
+    align-content: center;
+}
+
+@media screen and (max-width:500px) {
+    #innerdiv{
+        width: 50%;
+        padding: 3rem 4rem;
+    }
+    #innerdiv li{
+        padding: 5px;
+    }
+}

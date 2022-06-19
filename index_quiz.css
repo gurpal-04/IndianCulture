@@ -1,0 +1,33 @@
+body{
+    background-image: url(images/india-culture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: hidden;
+}
+#div{
+    background-color: #f5deb3db;
+    border: 5px solid grey;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 15%;
+    padding: 5px;
+    width: 50%;
+    text-align: center;
+    box-shadow: #b2abab 5px 5px 5px;
+}
+
+#div_head{
+    background-color:#218380 ;
+    color: white;
+    padding: 10px;
+}
+
+#button{
+    background-color:#218380 ;
+    border-radius: 5px;
+}
+
+#start{
+    /*display: inline;*/
+    text-align: right;
+}

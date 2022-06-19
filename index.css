@@ -1,0 +1,54 @@
+body {
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    /* background-position: center; */
+    /* background: fixed; */
+}
+
+#title{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+
+    background-image: url(images/indianculture.jpg);
+    /* background-size: cover; */
+    background-position: center;
+    
+}
+#info{
+    width: 50%;
+    text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: #b8b8b885;
+}
+
+#map{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    
+}
+#map path{
+    width: 100%;
+    fill: black;
+    stroke: white;
+    stroke-width: 0.2;
+}
+#map path:hover{
+    fill: lightslategrey;
+    /* opacity: 0.3; */
+    
+}
+
+a {
+    text-decoration: none;
+}
+a:hover{
+    cursor: pointer;
+}

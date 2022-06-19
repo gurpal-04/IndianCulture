@@ -3,7 +3,7 @@
 Our theme is Indian Culture.
 The whole project is made by students of Chitkara University 1st year CSE Branch
 
-index.html is our main page that will be hosted all other linked to it.
+index.html is our main page that will be hosted. All other pages are linked to it.
 On first page there is map of india when you hover on any state it's colour will be changed and name of state is displayed.
 On top of page under title quiz button is added when user will click on "here" it will redirects to quiz page from where he/she can start. For every correct answer 1 mark is awarded and on wrong submission ten seconds of time will be deducted from total 50 seconds. Quiz will end in two cases:
 
@@ -38,7 +38,7 @@ https://www.holidify.com/pages/madhya-pradesh-dress-142.html#:~:text=Lehenga%20a
 https://www.holidify.com/state/madhya-pradesh/top-destinations-places-to-visit.html
 https://indiathedestiny.com/india-society/costumes/madya-pradesh-traditional-costumes/
 https://timesofindia.indiatimes.com/life-style/food-news/mouth-watering-dishes-from-madhya-pradesh-that-you-must-not-miss/photostory/76959621.cms?picid=76959841
-wikinow.in
+www.wikinow.in
 www.lifestylefun.net
 www.facebook.com
 www.tourism.rajasthan.gov.in

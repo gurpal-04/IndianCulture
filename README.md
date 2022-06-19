@@ -20,7 +20,6 @@ All the pages are dynamic, when the size of screen is small then the side bar wi
 Resources:
 https://www.w3schools.com/xml/xml_xlink.asp
 https://www.tourmyindia.com/states/assam/
-
 https://traveltriangle.com/blog/tourist-places-in-assam/
 https://www.tourmyindia.com/blog/best-destinations-jammu-kashmir/
 https://www.tripadvisor.in/Attractions-g297619-Activities-Jammu_and_Kashmir.html

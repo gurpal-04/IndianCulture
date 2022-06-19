@@ -1,7 +1,7 @@
 # IndianCulture
 
 Our theme is Indian Culture.
-Tfe whole project is made by students of Chitkara University 1st year CSE Branch
+The whole project is made by students of Chitkara University 1st year CSE Branch
 
 index.html is our main page that will be hosted all other linked to it.
 On first page there is map of india when you hover on any state it's colour will be changed and name of state is displayed.
@@ -19,7 +19,9 @@ All the pages are dynamic, when the size of screen is small then the side bar wi
 
 Resources:
 https://www.w3schools.com/xml/xml_xlink.asp
+
 https://www.tourmyindia.com/states/assam/
+
 https://traveltriangle.com/blog/tourist-places-in-assam/
 https://www.tourmyindia.com/blog/best-destinations-jammu-kashmir/
 https://www.tripadvisor.in/Attractions-g297619-Activities-Jammu_and_Kashmir.html
@@ -32,4 +34,5 @@ www.holidify.com
 www.nativeplanet.com
 https://www.w3schools.com/charsets/ref_utf_symbols.asp
 www.punjab-tourism.com
+www.holidify.com
 www.farmersvilla.in
